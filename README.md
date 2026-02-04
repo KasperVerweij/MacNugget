@@ -1,4 +1,5 @@
 # BlueSCSI Mini PCB Clone
+<img width="660" height="522" alt="image" src="https://github.com/user-attachments/assets/a867eff2-c7b9-4cd3-b1c5-ce5b94f473d0" />
 
 A compact STM32-based PCB clone of the BlueSCSI project - a personal hardware experiment.
 
